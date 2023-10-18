@@ -1,0 +1,14 @@
+.card_text{
+    display: flex;
+    padding-left: 10px;
+}
+.icon1{
+    height: 100px;
+    width: 100px;
+}
+.card h1{
+    padding-left: 10px;
+}
+.card{
+    display: flex;
+}

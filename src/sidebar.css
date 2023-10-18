@@ -1,0 +1,14 @@
+.foot {
+    margin-top: 240px;
+    padding-left: 10px;
+    /* border: 20px solid blue; */
+    display: flex;
+}
+.foot_text{
+   padding: 10px;
+   padding-left: 20px;
+   color: black;
+}
+.sidebar{
+    color: rgb(92, 92, 244);
+}
